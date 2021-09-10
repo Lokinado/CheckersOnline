@@ -44,6 +44,8 @@ The most noteworthy frameworks and technologies.
 # Getting Started
 CheckersOnline is completely dockerized so production build can be created and run with one clean line in terminal.
 
+<br>
+
 ## Prerequisites
 * Docker [Docker Installation Page](https://docs.docker.com/engine/install/)
 * Docker-compose  [Docker-compose Installation Page](https://docs.docker.com/compose/install/)
@@ -55,11 +57,11 @@ CheckersOnline is completely dockerized so production build can be created and r
 ```sh
 git clone https://github.com/Lokinado/CheckersOnline
 ```
-2. Run docker compose in main directory ( first launch may take a while )
+2. Run docker compose in main directory. ( first launch may take a while )
 ```sh
 docker-compose up
 ```
-3. App should run on localhost on port 80. Can be changed in .env file
+3. App should run on localhost on port 80. Can be changed in .env file.
 ```env
 ADDRESS=localhost
 PORT=80
@@ -71,6 +73,8 @@ PORT=80
 Go to localhost in your browser and sign up. You may need to open second session in "incognito" window in your browser with second account to invite for a game. 
 
 After inviting for a game players can play game in seperate window and place moves when they want. Communication bettwen players can be done using built in chat.
+
+<br>
 
 ## Game rules
 1. Host account always starts with white pawns
@@ -90,11 +94,12 @@ After inviting for a game players can play game in seperate window and place mov
 # Roadmap
 No updates are planned in the near future.
 
-
 <br>
 
 # Licence
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<br>
 
 # Contact
 Krzysztof Borowski - krzysztofborowski02@gmail.com
