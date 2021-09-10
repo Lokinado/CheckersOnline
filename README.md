@@ -44,6 +44,8 @@ The most noteworthy frameworks and technologies.
 # Getting Started
 CheckersOnline is completely dockerized so production build can be created and run with one clean line in terminal.
 
+<br>
+
 ## Prerequisites
 * Docker [Docker Installation Page](https://docs.docker.com/engine/install/)
 * Docker-compose  [Docker-compose Installation Page](https://docs.docker.com/compose/install/)
@@ -72,6 +74,8 @@ Go to localhost in your browser and sign up. You may need to open second session
 
 After inviting for a game players can play game in seperate window and place moves when they want. Communication bettwen players can be done using built in chat.
 
+<br>
+
 ## Game rules
 1. Host account always starts with white pawns
 2. Opponent always plays with black pawns
@@ -90,11 +94,12 @@ After inviting for a game players can play game in seperate window and place mov
 # Roadmap
 No updates are planned in the near future.
 
-
 <br>
 
 # Licence
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<br>
 
 # Contact
 Krzysztof Borowski - krzysztofborowski02@gmail.com
