@@ -1,0 +1,25 @@
+.GameTile{
+    border: 7px hidden #eeeeee;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.GameTile:hover {
+    background-color:rgba(0, 0, 0, 0.2) !important;
+}
+
+.GameTitle{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #303030;
+    margin-right: 24px;
+}
+
+.GameStatus{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 0.9rem;
+    color: #525252;
+    margin-right: 24px;
+}

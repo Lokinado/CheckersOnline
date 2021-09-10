@@ -1,0 +1,31 @@
+version: '3.7'
+services:
+    web:
+        build: .
+        environment: 
+            DB_USER: "root"
+            DB_HOST: "db"
+            DB_NAME: "CheckersOnline"
+            DB_PASS: "password"
+            DB_PORT: 3306
+            port: ${PORT:-80}
+            server: http://${ADDRESS:-localhost}:${PORT:-80}/
+            dev: 0
+        expose:
+            - "${PORT:-80}"
+        ports:
+            - "${PORT:-80}:${PORT:-80}"
+        depends_on: # force turn off and turn on order
+            - db
+        restart: on-failure
+    db:
+        image: "mysql" 
+        environment: 
+            MYSQL_ROOT_PASSWORD: password # added enviourment variable ( good for deploy to PRODUCTION )
+        volumes: 
+            - db-data:/checkers
+        ports:
+            - "3306:3306"
+
+volumes: 
+    db-data:
