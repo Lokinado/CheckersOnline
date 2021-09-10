@@ -57,11 +57,11 @@ CheckersOnline is completely dockerized so production build can be created and r
 ```sh
 git clone https://github.com/Lokinado/CheckersOnline
 ```
-2. Run docker compose in main directory ( first launch may take a while )
+2. Run docker compose in main directory. ( first launch may take a while )
 ```sh
 docker-compose up
 ```
-3. App should run on localhost on port 80. Can be changed in .env file
+3. App should run on localhost on port 80. Can be changed in .env file.
 ```env
 ADDRESS=localhost
 PORT=80
