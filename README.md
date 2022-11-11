@@ -102,6 +102,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <br>
 
 # Contact
-Krzysztof Borowski - krzysztofborowski02@gmail.com
+Made with love by Krzysztof Borowski - krzysztofborowski02@gmail.com
 <br>
 Project Link: https://github.com/Lokinado/CheckersOnline
