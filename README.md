@@ -1,3 +1,23 @@
+<!--
++++
+author = "Krzysztof Borowski"
+title = "Checkers Online"
+date = "2021-09-10"
+description = "A simple full stack web application"
+summary = "Checkers Online is a demo fullstack project showing how would i implement complex webapp."
+draft="false"
+tags = [
+    "typescript", 
+    "react",
+    "node",
+]
+categories = [
+    "webdev",
+    "full stack",
+]
++++
+-->
+
 ![GitHub](https://img.shields.io/github/license/Lokinado/CheckersOnline?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Lokinado/CheckersOnline?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/Lokinado/CheckersOnline?style=for-the-badge)
