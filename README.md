@@ -44,6 +44,7 @@ categories = [
 Checkers Online is a demo fullstack project showing how would i implement complex webapp. The main goal was to create consistent ecosystem to handle many games of many users at once with minimal overhead. 
 
 Have Fun! 😄
+[Github Repo](https://github.com/Lokinado/CheckersOnline)
 
 <br>
 
