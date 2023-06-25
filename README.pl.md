@@ -40,10 +40,11 @@ categories = [
 
 <br><br>
 
-# O Projekcie [Github](https://github.com/Lokinado/CheckersOnline)
+# O Projekcie
 Checkers Online to przykładowa aplikacja fullstack pokazująca jak zaimplementował bym złożony serwis internetowy. Głównym celem było stworzenie ekosystemu który był by w stanie prowadzić wiele gier wielu użytkowników w tym samym czasie z minimalnym wykorzystaniem zasobów.
 
 Miłej rozgrywki! 😄
+[Github Repo](https://github.com/Lokinado/CheckersOnline)
 
 <br>
 
