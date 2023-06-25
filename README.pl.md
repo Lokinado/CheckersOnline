@@ -123,6 +123,6 @@ Dystrybuowane pod Licencją MIT. Zobacz `LICENSE` po więcej informacji.
 <br>
 
 # Kontakt
-Stworzone prze Krzysztof Borowski - krzysztofborowski02@gmail.com
+Stworzone przez Krzysztof Borowski - krzysztofborowski02@gmail.com
 <br>
 Link do projektu: https://github.com/Lokinado/CheckersOnline
