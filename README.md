@@ -30,7 +30,7 @@ categories = [
     </h1>
 
   <p align="center">
-    Simple webapp by Krzysztof Borowski
+    Full stack web platform for connecting players to numerous concurrent games. Its robust architecture ensures reliable performance allowing players to play checkers with ease.
     <br />
     <!--
     <a href="DEMO LINK"><strong>View Demo»</strong></a>
